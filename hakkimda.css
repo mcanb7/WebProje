@@ -1,0 +1,16 @@
+body{
+color:#111111;
+}
+
+.menualani{
+	background-color: #444;
+	margin: auto auto auto auto;
+}
+
+.menu{
+	float: left;
+	margin-left:35px;
+	margin-top: 20px;
+}
+
+
